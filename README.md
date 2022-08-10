@@ -4,9 +4,7 @@
 - 💞️ I’m looking to publish some projects here
 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
-📰 [newsletter][newsletter] **|** 
 📧 [gmail][gmail] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
