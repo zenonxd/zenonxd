@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zenonxd
-- 👀 I’m interested in become a better codder
+- 👀 I’m interested in becoming a better coder
 - 🌱 I’m currently learning CSS, JavaScript and a bunch of stuff (Web development)
 - 💞️ I’m looking to publish some projects here
 
