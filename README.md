@@ -11,8 +11,8 @@
 
 
 
-[twitter]: https://twitter.com/zenoniwnl/
-[twitch]: https://twitch.tv/zenoniwnl/
+
+
 [instagram]: https://instagram.com/olavomoreirap/
 [linkedin]: https://linkedin.com/in/olavospmoreira/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=olavomoreiranl@gmail.com&su=SUBJECT&body=BODY&bcc=olavomoreiranl@gmail.com
