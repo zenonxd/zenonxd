@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zenonxd
 - 👀 I’m interested in becoming a better coder
-- 🌱 I’m currently learning CSS, JavaScript and a bunch of stuff (Web development)
+- 🌱 I’m currently learning Java, OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB.
 - 💞️ I’m looking to publish some projects here
 
 🐦 [twitter][twitter] **|** 
