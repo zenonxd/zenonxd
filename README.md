@@ -9,8 +9,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-![image](https://github.com/zenonxd/zenonxd/assets/64092861/8a846053-fe9e-4c97-877e-70c9f108b15f)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 
