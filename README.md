@@ -9,7 +9,7 @@
 
 ## Currently studying:
 
-[![My Skills](https://skillicons.dev/icons?i=java,Spring-Dark,azure,react,vue,flutter&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7)](https://skillicons.dev)
 
 
 
