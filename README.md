@@ -9,6 +9,12 @@
 
 ## Currently studying:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7)](https://skillicons.dev)
 
 
