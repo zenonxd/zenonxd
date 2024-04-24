@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @zenonxd
-- 👀 I’m interested in becoming a better coder
-- 🌱 I’m currently learning Java, OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB.
-- 💞️ I’m looking to publish some projects here
+# Olavo Moreira
 
-🐦 [twitter][twitter] **|** 
-🎥 [twitch][twitch] **|** 
-📧 [gmail][gmail] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+## Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavospmoreira/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zeninxd/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/zenoniwnl)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:olavomoreiranl@gmail.com)
+
+## Currently studying:
+
+[![My Skills](https://skillicons.dev/icons?i=java-dark,Spring-Dark,azure,react,vue,flutter&perline=7)](https://skillicons.dev)
 
 
 
