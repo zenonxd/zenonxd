@@ -1,4 +1,5 @@
 # Olavo Moreira
+Currently working in the acquisition commission at my city. Looking foward to become a backend developer.
 
 ## Connect with me
 
@@ -9,11 +10,9 @@
 
 ## Currently studying:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7)](https://skillicons.dev)
+
+I'm also studying OO, UML, JDBC, JavaFX, and JPA. 
 
 ## Github stats
 
