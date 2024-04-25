@@ -2,6 +2,12 @@
 
 ## Connect with me
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgelogo=linkedinlogoColor=white)" />
+  </a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavospmoreira/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zeninxd/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/zenoniwnl)
@@ -15,7 +21,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7)](https://skillicons.dev)
+
 
 
 
