@@ -2,12 +2,6 @@
 
 ## Connect with me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgelogo=linkedinlogoColor=white)" />
-  </a>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavospmoreira/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zeninxd/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/zenoniwnl)
@@ -21,10 +15,11 @@
   </a>
 </p>
 
+## Github stats
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zenonxd&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
+## My contributions
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=Value-Filter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/Value-Filter)
 
-
-[instagram]: https://instagram.com/olavomoreirap/
-[linkedin]: https://linkedin.com/in/olavospmoreira/
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=olavomoreiranl@gmail.com&su=SUBJECT&body=BODY&bcc=olavomoreiranl@gmail.com
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=AlphabeticOrder-Conditional&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/AlphabeticOrder-Conditional)
