@@ -19,7 +19,7 @@ I'm also studying OO, UML, JDBC, JavaFX, and JPA.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zenonxd&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
 ## My contributions
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=demo-dao-jdbc-b&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/demo-dao-jdbc)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=demo-dao-jdbc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/demo-dao-jdbc)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=dio-trilha-java-b&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/dio-trilha-java-b)
 
