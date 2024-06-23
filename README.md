@@ -1,31 +1,75 @@
-# Olavo Moreira
-Currently working in the acquisition commission at my city. Looking foward to become a backend developer.
+<h2 align="left">Hi! My name is Olavo Moreira :)</h2>
 
-## Connect with me
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavospmoreira/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zeninxd/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/zenoniwnl)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:olavomoreiranl@gmail.com)
+<p align="left">Currently working in the acquisition commission at my city. Looking foward to become a java backend developer.</p>
 
-## Currently studying:
+###
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&perline=7)](https://skillicons.dev)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+</div>
 
-I'm also studying OO, UML, JDBC, JavaFX, and JPA. 
+###
 
-## Github stats
+<p align="center">I'm also studying OO, UML, JDBC, JavaFX, and JPA.</p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zenonxd&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+###
 
-## My contributions
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=demo-dao-jdbc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/demo-dao-jdbc)
+<p align="left">Connect with me 👇</p>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=dio-trilha-java-b&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/dio-trilha-java-b)
+###
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=collections-java-api-2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/collections-java-api-2023)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://discord.com/channels/@zeninxd/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:olavomoreiranl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/olavospmoreira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=Value-Filter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/Value-Filter)
+###
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=AlphabeticOrder-Conditional&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/zenonxd/AlphabeticOrder-Conditional)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/zenonxd/zenonxd/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenonxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenonxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/olavomoreira_pedra">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=olavomoreira_pedra&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=zenonxd" alt="Layout with last medium posts"  />
+</div>
+
+###
