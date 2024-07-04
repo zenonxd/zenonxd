@@ -62,11 +62,15 @@
   
 [![SpringBoot Michelli Brito - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=springboot-michelli&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/springboot-michelli)
 
+[![Spring Data Jpa - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=spring-data-jpa-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/spring-data-jpa-2024)
+
 [![Estudo Arquitetura Limpa](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-arquitetura-limpa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-arquitetura-limpa)
 
 [![Base Para Início de Projeto](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=base-para-inicio-projeto&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/base-para-inicio-projeto)
 
 [![Estudo Sobre Anotações Spring & JPA](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-anotacoes-spring&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-anotacoes-spring)
+
+
 
 
 </div>
