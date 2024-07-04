@@ -71,9 +71,6 @@
 
 </div>
 
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/olavomoreira_pedra">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=olavomoreira_pedra&count=5&unique=false" alt="Spotify recently played"  />
