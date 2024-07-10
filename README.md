@@ -59,9 +59,15 @@
 
 ###
 <div align="center">
-  
-[![SpringBoot Michelli Brito - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=springboot-michelli&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/springboot-michelli)
+<h2 align="center">Estudos Básicos Java - 2024</h2>
 
+[![Princípios Programação Orientada a Objetos](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudos-principios-poo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudos-principios-poo)
+[![Trabalhando com Strings](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=java-trabalhando-com-strings&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/java-trabalhando-com-strings)
+[![Trabalhando com Objetos](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=javabasico-trabalhando-objetos&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/javabasico-trabalhando-objetos)
+
+<h2 align="center">Estudos Avançados Java e Spring - 2024</h2>
+
+[![SpringBoot Michelli Brito - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=springboot-michelli&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/springboot-michelli)
 [![Spring Data Jpa - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=spring-data-jpa-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/spring-data-jpa-2024)
 
 [![Estudo Arquitetura Limpa](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-arquitetura-limpa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-arquitetura-limpa)
