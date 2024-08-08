@@ -70,6 +70,18 @@
 
 [![Trabalhando com Strings](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-exceptions&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-exceptions)
 
+<h2 align="center">Estudos Avançados Java e Spring - 2024</h2>
+
+[![Base Para Início de Projeto](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=base-para-inicio-projeto&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/base-para-inicio-projeto)
+
+[![SpringBoot Michelli Brito - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=springboot-michelli&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/springboot-michelli)
+[![Spring Data Jpa - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=spring-data-jpa-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/spring-data-jpa-2024)
+
+[![Estudo Sobre Anotações Spring & JPA](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-anotacoes-spring&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-anotacoes-spring)
+[![Estudo Arquitetura Limpa](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-arquitetura-limpa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-arquitetura-limpa)
+
+
+
 <h2 align="center">Estudos Testes Automatizados - 2024</h2>
 
 [![Introdução Testes Automatizados](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=introducao-testes-automatizados-java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/introducao-testes-automatizados-java)
@@ -79,19 +91,6 @@
 
 [![Teste Subcutâneo](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-testes-subcutaneos-java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-testes-subcutaneos-java)
 [![Estudo Final](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-final-testes-java&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-final-testes-java)
-
-
-<h2 align="center">Estudos Avançados Java e Spring - 2024</h2>
-
-[![SpringBoot Michelli Brito - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=springboot-michelli&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/springboot-michelli)
-[![Spring Data Jpa - 2024](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=spring-data-jpa-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/spring-data-jpa-2024)
-
-[![Estudo Arquitetura Limpa](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-arquitetura-limpa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-arquitetura-limpa)
-
-[![Base Para Início de Projeto](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=base-para-inicio-projeto&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/base-para-inicio-projeto)
-
-[![Estudo Sobre Anotações Spring & JPA](https://github-readme-stats.vercel.app/api/pin/?username=zenonxd&repo=estudo-anotacoes-spring&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zenonxd/estudo-anotacoes-spring)
-
 
 </div>
 
