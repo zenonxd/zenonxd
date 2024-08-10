@@ -29,10 +29,15 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zenonxd/zenonxd/output/github-contribution-grid-snake.svg" />
-
 </div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zenonxd&theme=synthwave&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+    
+</div>
+
 
 <div align="center">
     <a href="https://twitter.com/intent/follow?screen_name=zenoniwnl">
