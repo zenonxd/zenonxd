@@ -7,7 +7,7 @@
 
 <blockquote>
     <p><i>
-        Currently working in the acquisition commission at my city. Looking foward to become a java backend developer.️
+        Currently working in the acquisition commission at my city. Looking foward to become a java backend developer.
     </i></p>
 </blockquote>
 </div>
