@@ -5,8 +5,16 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
+    You can check all my studies <a href="https://olavo-moreira.gitbook.io/studies">here.</a>
+</p>
+<p>
+    <a href="https://olavo-moreira.gitbook.io/studies#estudos-java-basico">Java basics</a> <br>
+    <a href="https://olavo-moreira.gitbook.io/studies#comece-spring-framework">Start with Spring Framework here.</a>
 
-
+</p>
+<p>
+    Any questions? Hit me on Twitter: <a href="https://twitter.com/zenoniwnl" target="_blank"><strong>@zenoniwnl</strong></a>   
+    or connect with me on LinkedIn: <a href="https://www.linkedin.com/in/olavospmoreira/" target="_blank"><strong>LinkedIn</strong></a> 🔗
 </p>
 
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
@@ -35,7 +43,9 @@
     │    ├── ᴛᴇsᴛᴇs ᴜɴɪᴛᴀ́ʀɪᴏs (ᴊᴜɴɪᴛ, ᴍᴏᴄᴋɪᴛᴏ, ᴊᴀᴄᴏᴄᴏ, ᴍᴏᴄᴋᴍᴠᴄ)  
     │    ├── ᴀᴡs (s3, ʙᴜᴄᴋᴇᴛ, ɪᴀᴍ, ʀᴅs, ᴇᴄ2, ᴠᴘᴄ)  
     │    └── ᴄʟᴇᴀɴ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ
-
+<td>
+ 
+</td>
   </tr>
 </table>
 
